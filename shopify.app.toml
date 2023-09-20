@@ -2,7 +2,7 @@
 
 name = "erick-test-app"
 client_id = "c9eece80e2f0eeb27232ece5802ca50f"
-application_url = "https://interest-patents-cr-qualification.trycloudflare.com"
+application_url = "https://fool-inserted-metals-egypt.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://interest-patents-cr-qualification.trycloudflare.com/auth/callback",
-  "https://interest-patents-cr-qualification.trycloudflare.com/auth/shopify/callback",
-  "https://interest-patents-cr-qualification.trycloudflare.com/api/auth/callback"
+  "https://fool-inserted-metals-egypt.trycloudflare.com/auth/callback",
+  "https://fool-inserted-metals-egypt.trycloudflare.com/auth/shopify/callback",
+  "https://fool-inserted-metals-egypt.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
